@@ -210,6 +210,17 @@ pip-log.txt
 
 #Translations
 *.mo
-
-#Mr Developer
-.mr.developer.cfg
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher-android/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher-android/.syncinfo.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher-desktop/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher-desktop/.syncinfo.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher-html/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher-html/.syncinfo.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.projects/brickpuncher/.syncinfo.snap
+.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.core.resources/.snap
+.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat
